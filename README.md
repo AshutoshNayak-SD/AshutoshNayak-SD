@@ -1,3 +1,4 @@
+![logo](https://github.com/AshutoshNayak-SD/AshutoshNayak-SD/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Ashutosh Nayak</h1>
 <h3 align="center">A passionate, focused Software Developer from India</h3>
 
